@@ -40,6 +40,7 @@ public class Fiorenza
 		System.out.println("3 - Es n. 5 - Titolo es. Stampa zigzag");
 		System.out.println("4 - Es n. 1 - Titolo es. Minnimo di array");
 	}
+	// Accordino: ok! 2pt
 	static void minimodiarray()
 	{
 		numDaMenoCinqueeCinque(array10);
@@ -59,6 +60,7 @@ public class Fiorenza
 		
 		System.out.println("Il numero minore dell'array è: "+minore+"\nLa posizione del numero è: "+posizione);
 	}
+	// Accordino: ok! 3pt
 	static void zigzag()
 	{
 		numDaZeroADieci(array10);
@@ -72,6 +74,7 @@ public class Fiorenza
 		}
 		System.out.print("|\n");
 	}
+	// Accordino: ok! 3pt
 	static void lanciorisiko()
 	{
 		GeneraDadi(Attaccante);
@@ -99,6 +102,7 @@ public class Fiorenza
 		}
 		System.out.println("\n"+"Il numero di carri armati distrutti è: "+carridist+"\n");
 	}
+	// Accordino: ok! 4pt
 	static void ugualiconsecutivi()
 	{
 		numdaMenoTreeTre(array1);
